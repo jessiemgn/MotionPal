@@ -1,0 +1,234 @@
+{"plans": [
+    {
+        "week": 1,
+        "exercises": [
+            {
+                "duration": 60,
+                "reps": 0,
+                "sets": 3,
+                "name": "plank",
+                "weight": 0
+            },
+            {
+                "duration": 0,
+                "reps": 8,
+                "sets": 3,
+                "name": "leg press",
+                "weight": 100
+            },
+            {
+                "duration": 0,
+                "reps": 8,
+                "sets": 3,
+                "name": "squat",
+                "weight": 20
+            }
+        ],
+        "complete": true,
+        "day": 1
+    },
+    {
+        "week": 1,
+        "exercises": [],
+        "complete": false,
+        "day": 2
+    },
+    {
+        "week": 1,
+        "exercises": [],
+        "complete": false,
+        "day": 3
+    },
+    {
+        "week": 1,
+        "exercises": [],
+        "complete": false,
+        "day": 4
+    },
+    {
+        "week": 1,
+        "exercises": [],
+        "complete": false,
+        "day": 5
+    },
+    {
+        "week": 1,
+        "exercises": [],
+        "complete": false,
+        "day": 6
+    },
+    {
+        "week": 1,
+        "exercises": [],
+        "complete": false,
+        "day": 7
+    },
+    {
+        "week": 2,
+        "exercises": [],
+        "complete": false,
+        "day": 1
+    },
+    {
+        "week": 2,
+        "exercises": [],
+        "complete": false,
+        "day": 2
+    },
+    {
+        "week": 2,
+        "exercises": [],
+        "complete": false,
+        "day": 3
+    },
+    {
+        "week": 2,
+        "exercises": [],
+        "complete": false,
+        "day": 4
+    },
+    {
+        "week": 2,
+        "exercises": [],
+        "complete": false,
+        "day": 5
+    },
+    {
+        "week": 2,
+        "exercises": [],
+        "complete": false,
+        "day": 6
+    },
+    {
+        "week": 2,
+        "exercises": [],
+        "complete": false,
+        "day": 7
+    },
+    {
+        "week": 3,
+        "exercises": [],
+        "complete": false,
+        "day": 1
+    },
+    {
+        "week": 3,
+        "exercises": [],
+        "complete": false,
+        "day": 2
+    },
+    {
+        "week": 3,
+        "exercises": [],
+        "complete": false,
+        "day": 3
+    },
+    {
+        "week": 3,
+        "exercises": [],
+        "complete": false,
+        "day": 4
+    },
+    {
+        "week": 3,
+        "exercises": [],
+        "complete": false,
+        "day": 5
+    },
+    {
+        "week": 3,
+        "exercises": [],
+        "complete": false,
+        "day": 6
+    },
+    {
+        "week": 3,
+        "exercises": [],
+        "complete": false,
+        "day": 7
+    },
+    {
+        "week": 4,
+        "exercises": [],
+        "complete": false,
+        "day": 1
+    },
+    {
+        "week": 4,
+        "exercises": [],
+        "complete": false,
+        "day": 2
+    },
+    {
+        "week": 4,
+        "exercises": [],
+        "complete": false,
+        "day": 3
+    },
+    {
+        "week": 4,
+        "exercises": [],
+        "complete": false,
+        "day": 4
+    },
+    {
+        "week": 4,
+        "exercises": [],
+        "complete": false,
+        "day": 5
+    },
+    {
+        "week": 4,
+        "exercises": [],
+        "complete": false,
+        "day": 6
+    },
+    {
+        "week": 4,
+        "exercises": [],
+        "complete": false,
+        "day": 7
+    },
+    {
+        "week": 5,
+        "exercises": [],
+        "complete": false,
+        "day": 1
+    },
+    {
+        "week": 5,
+        "exercises": [],
+        "complete": false,
+        "day": 2
+    },
+    {
+        "week": 5,
+        "exercises": [],
+        "complete": false,
+        "day": 3
+    },
+    {
+        "week": 5,
+        "exercises": [],
+        "complete": false,
+        "day": 4
+    },
+    {
+        "week": 5,
+        "exercises": [],
+        "complete": false,
+        "day": 5
+    },
+    {
+        "week": 5,
+        "exercises": [],
+        "complete": false,
+        "day": 6
+    },
+    {
+        "week": 5,
+        "exercises": [],
+        "complete": false,
+        "day": 7
+    }
+]}

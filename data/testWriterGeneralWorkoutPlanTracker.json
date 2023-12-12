@@ -1,0 +1,44 @@
+{"plans": [
+    {
+        "week": 1,
+        "exercises": [
+            {
+                "duration": 1,
+                "reps": 1,
+                "sets": 1,
+                "name": "Burpees",
+                "weight": 1
+            },
+            {
+                "duration": 1,
+                "reps": 1,
+                "sets": 1,
+                "name": "Push Up",
+                "weight": 1
+            }
+        ],
+        "complete": true,
+        "day": 1
+    },
+    {
+        "week": 1,
+        "exercises": [
+            {
+                "duration": 2,
+                "reps": 2,
+                "sets": 2,
+                "name": "Burpees",
+                "weight": 2
+            },
+            {
+                "duration": 2,
+                "reps": 2,
+                "sets": 2,
+                "name": "Push Up",
+                "weight": 2
+            }
+        ],
+        "complete": false,
+        "day": 2
+    }
+]}
